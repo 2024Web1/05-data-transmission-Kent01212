@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="sample1.php">sample1コード</a>
     <a href="sample2.php">練習コード</a>
     <a href="hello.php">課題</a>
     <a href="control.php">制御構造の確認</a>
